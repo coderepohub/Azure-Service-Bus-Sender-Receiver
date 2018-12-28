@@ -1,10 +1,10 @@
-# Azure Service Bus Topic Sender and Reciever application 
-This is a simple console application project which contains two project one *Sender* and one *Reciever* . We can make both the project as statrtup project two send and recieve messages simultaneously or can have these projects running seperately.
+# Azure Service Bus Topic Sender and Receiver application 
+This is a simple console application project which contains two project one *Sender* and one *Receiver* . We can make both the project as statrtup project two send and recieve messages simultaneously or can have these projects running seperately.
 ( I have made both the project as STARTUP project by default).
 
 It contains two projects : 
 1. **ServiceBusTopicApp** - Service Bus Message Sender Application
-2. **ServiceBusTopicRecieverApp** - Service Bus Message Reciever Application
+2. **ServiceBusTopicRecieverApp** - Service Bus Message Receiver Application
 
 ## Create Service Bus in Azure
 
