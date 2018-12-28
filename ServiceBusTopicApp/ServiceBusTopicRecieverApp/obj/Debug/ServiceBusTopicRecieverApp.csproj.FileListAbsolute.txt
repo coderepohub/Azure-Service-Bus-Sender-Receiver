@@ -1,0 +1,15 @@
+c:\users\m1034336\documents\visual studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicRecieverApp\bin\Debug\ServiceBusTopicRecieverApp.exe.config
+c:\users\m1034336\documents\visual studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicRecieverApp\bin\Debug\ServiceBusTopicRecieverApp.exe
+c:\users\m1034336\documents\visual studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicRecieverApp\bin\Debug\ServiceBusTopicRecieverApp.pdb
+c:\users\m1034336\documents\visual studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicRecieverApp\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\m1034336\documents\visual studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicRecieverApp\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\m1034336\documents\visual studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicRecieverApp\obj\Debug\ServiceBusTopicRecieverApp.exe
+c:\users\m1034336\documents\visual studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicRecieverApp\obj\Debug\ServiceBusTopicRecieverApp.pdb
+C:\Users\m1034336\Documents\Visual Studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicRecieverApp\obj\Debug\ServiceBusTopicRecieverApp.csprojResolveAssemblyReference.cache
+D:\gitrepo\vsprojects\AzureServiceBusSenderReciever\ServiceBusTopicApp\ServiceBusTopicRecieverApp\bin\Debug\ServiceBusTopicRecieverApp.exe.config
+D:\gitrepo\vsprojects\AzureServiceBusSenderReciever\ServiceBusTopicApp\ServiceBusTopicRecieverApp\bin\Debug\ServiceBusTopicRecieverApp.exe
+D:\gitrepo\vsprojects\AzureServiceBusSenderReciever\ServiceBusTopicApp\ServiceBusTopicRecieverApp\bin\Debug\ServiceBusTopicRecieverApp.pdb
+D:\gitrepo\vsprojects\AzureServiceBusSenderReciever\ServiceBusTopicApp\ServiceBusTopicRecieverApp\bin\Debug\Microsoft.ServiceBus.dll
+D:\gitrepo\vsprojects\AzureServiceBusSenderReciever\ServiceBusTopicApp\ServiceBusTopicRecieverApp\bin\Debug\Microsoft.ServiceBus.xml
+D:\gitrepo\vsprojects\AzureServiceBusSenderReciever\ServiceBusTopicApp\ServiceBusTopicRecieverApp\obj\Debug\ServiceBusTopicRecieverApp.exe
+D:\gitrepo\vsprojects\AzureServiceBusSenderReciever\ServiceBusTopicApp\ServiceBusTopicRecieverApp\obj\Debug\ServiceBusTopicRecieverApp.pdb

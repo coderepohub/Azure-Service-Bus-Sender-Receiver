@@ -1,0 +1,15 @@
+c:\users\m1034336\documents\visual studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicApp\bin\Debug\ServiceBusTopicApp.exe.config
+c:\users\m1034336\documents\visual studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicApp\bin\Debug\ServiceBusTopicApp.exe
+c:\users\m1034336\documents\visual studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicApp\bin\Debug\ServiceBusTopicApp.pdb
+c:\users\m1034336\documents\visual studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicApp\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\m1034336\documents\visual studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicApp\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\m1034336\documents\visual studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicApp\obj\Debug\ServiceBusTopicApp.csprojResolveAssemblyReference.cache
+c:\users\m1034336\documents\visual studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicApp\obj\Debug\ServiceBusTopicApp.exe
+c:\users\m1034336\documents\visual studio 2015\Projects\ServiceBusTopicApp\ServiceBusTopicApp\obj\Debug\ServiceBusTopicApp.pdb
+D:\gitrepo\vsprojects\AzureServiceBusSenderReciever\ServiceBusTopicApp\ServiceBusTopicApp\bin\Debug\ServiceBusTopicApp.exe.config
+D:\gitrepo\vsprojects\AzureServiceBusSenderReciever\ServiceBusTopicApp\ServiceBusTopicApp\bin\Debug\ServiceBusTopicApp.exe
+D:\gitrepo\vsprojects\AzureServiceBusSenderReciever\ServiceBusTopicApp\ServiceBusTopicApp\bin\Debug\ServiceBusTopicApp.pdb
+D:\gitrepo\vsprojects\AzureServiceBusSenderReciever\ServiceBusTopicApp\ServiceBusTopicApp\bin\Debug\Microsoft.ServiceBus.dll
+D:\gitrepo\vsprojects\AzureServiceBusSenderReciever\ServiceBusTopicApp\ServiceBusTopicApp\bin\Debug\Microsoft.ServiceBus.xml
+D:\gitrepo\vsprojects\AzureServiceBusSenderReciever\ServiceBusTopicApp\ServiceBusTopicApp\obj\Debug\ServiceBusTopicApp.exe
+D:\gitrepo\vsprojects\AzureServiceBusSenderReciever\ServiceBusTopicApp\ServiceBusTopicApp\obj\Debug\ServiceBusTopicApp.pdb
